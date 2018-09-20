@@ -1,0 +1,25 @@
+author: Dean Rex Silfen
+about: Things I like to read.
+title: Feeds
+
+elements:
+  - url: https://www.yegor256.com/rss.xml
+    title: yegor256
+  - url: https://www.cocoawithlove.com/feed.xml
+    title: cocoawithlove
+  - url: https://useyourloaf.com/blog/rss.xml
+    title: com
+  - url: https://dev.to/feed
+    title: to
+  - url: https://www.objc.io/feed.xml
+    title: objc
+  - url: https://forums.swift.org/posts.rss
+    title: swift
+  - url: https://m.signalvnoise.com/feed
+    title: signalvnoise
+  - url: https://rant.monkeydom.de/posts.rss
+    title: monkeydom
+  - url: https://blog.krzyzanowskim.com/rss
+    title: krzyzanowskim
+  - url: https://theconversation.com/us/articles.atom
+    title: theconversation

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Dean Rex Silfen</name>
+  </author>
+  <id>Things I like to read.</id>
+  <title>Feeds</title>
+  <updated>2018-09-19T23:49:12-04:00</updated>
+  <entry>
+    <id>https://www.yegor256.com/rss.xml</id>
+    <link href="https://www.yegor256.com/rss.xml"/>
+    <title>yegor256</title>
+    <updated>2018-09-19T23:49:12-04:00</updated>
+    <dc:date>2018-09-19T23:49:12-04:00</dc:date>
+  </entry>
+  <entry>
+    <id>https://www.cocoawithlove.com/feed.xml</id>
+    <link href="https://www.cocoawithlove.com/feed.xml"/>
+    <title>cocoawithlove</title>
+    <updated>2018-09-19T23:49:12-04:00</updated>
+    <dc:date>2018-09-19T23:49:12-04:00</dc:date>
+  </entry>
+  <entry>
+    <id>https://useyourloaf.com/blog/rss.xml</id>
+    <link href="https://useyourloaf.com/blog/rss.xml"/>
+    <title>com</title>
+    <updated>2018-09-19T23:49:12-04:00</updated>
+    <dc:date>2018-09-19T23:49:12-04:00</dc:date>
+  </entry>
+  <entry>
+    <id>https://dev.to/feed</id>
+    <link href="https://dev.to/feed"/>
+    <title>to</title>
+    <updated>2018-09-19T23:49:12-04:00</updated>
+    <dc:date>2018-09-19T23:49:12-04:00</dc:date>
+  </entry>
+  <entry>
+    <id>https://www.objc.io/feed.xml</id>
+    <link href="https://www.objc.io/feed.xml"/>
+    <title>objc</title>
+    <updated>2018-09-19T23:49:12-04:00</updated>
+    <dc:date>2018-09-19T23:49:12-04:00</dc:date>
+  </entry>
+  <entry>
+    <id>https://forums.swift.org/posts.rss</id>
+    <link href="https://forums.swift.org/posts.rss"/>
+    <title>swift</title>
+    <updated>2018-09-19T23:49:12-04:00</updated>
+    <dc:date>2018-09-19T23:49:12-04:00</dc:date>
+  </entry>
+  <entry>
+    <id>https://m.signalvnoise.com/feed</id>
+    <link href="https://m.signalvnoise.com/feed"/>
+    <title>signalvnoise</title>
+    <updated>2018-09-19T23:49:12-04:00</updated>
+    <dc:date>2018-09-19T23:49:12-04:00</dc:date>
+  </entry>
+  <entry>
+    <id>https://rant.monkeydom.de/posts.rss</id>
+    <link href="https://rant.monkeydom.de/posts.rss"/>
+    <title>monkeydom</title>
+    <updated>2018-09-19T23:49:12-04:00</updated>
+    <dc:date>2018-09-19T23:49:12-04:00</dc:date>
+  </entry>
+  <entry>
+    <id>https://blog.krzyzanowskim.com/rss</id>
+    <link href="https://blog.krzyzanowskim.com/rss"/>
+    <title>krzyzanowskim</title>
+    <updated>2018-09-19T23:49:12-04:00</updated>
+    <dc:date>2018-09-19T23:49:12-04:00</dc:date>
+  </entry>
+  <entry>
+    <id>https://theconversation.com/us/articles.atom</id>
+    <link href="https://theconversation.com/us/articles.atom"/>
+    <title>theconversation</title>
+    <updated>2018-09-19T23:49:12-04:00</updated>
+    <dc:date>2018-09-19T23:49:12-04:00</dc:date>
+  </entry>
+  <dc:date>2018-09-19T23:49:12-04:00</dc:date>
+</feed>
